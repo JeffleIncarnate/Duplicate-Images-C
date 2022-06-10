@@ -2,13 +2,13 @@
 
 int main() {
     // For loop to run 1 million times
-    for (long long int  i = 0; i <= 1000000; i++) {
+    for (long long int  i = 0; i <= 100000; i++) {
         // Pointer for target and source
         FILE *source, *target;
         int g;
 
         // Source File from main drive
-        source = fopen("C:\\Users\\hp\\Documents\\Code Files\\Visual Studio Code\\C\\Crash Computer\\amongus.png", "rb"); 
+        source = fopen("C:\\Users\\hp\\Documents\\Code Files\\Visual Studio Code\\C\\Crash Computer\\1kb.png", "rb"); 
         if( source == NULL ) { printf("Press any key to exit...\n");} //exit(EXIT_FAILURE); 
 
         fseek(source, 0, SEEK_END);
