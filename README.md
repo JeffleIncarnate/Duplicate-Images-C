@@ -6,7 +6,7 @@ To actually use this, change the `source` line file path, to the one you want to
 
 ## Idea
 
-This idea was from my friend, as he wrote it in python, i natually decided to have any strokes with C, and how hard it is to type. But, the reason I wanted to write it in C was because of how fast it is.
+This idea was from my friend, as he wrote it in python, I natually decided to have many many strokes with C, and how hard it is to type. But, the reason I wanted to write it in C was because of how fast it is. C is a speedy boi. The fast of the fast, the usain to the bolt, the C to the ++.
 
 ## Authors
 
